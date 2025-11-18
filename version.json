@@ -1,6 +1,4 @@
 {
   "firmware_version": "1.9",
-  "bin_url": "https://github.com/AtomixPc007/RouterSolaire/raw/refs/heads/main/RouterSolaire_V1.9.bin",
-  "min_hw": "ESP32",
-  "notes": "Amélioration interface et base OTA"
+  "bin_url": "https://raw.githubusercontent.com/AtomixPc007/RouterSolaire/main/RouterSolaire_V1.9.bin"
 }
